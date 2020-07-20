@@ -1,0 +1,785 @@
+﻿編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+The serial number,land sector position,land shifting area square meter,the use zoning or compiles and checks
+RPRPMLNKNHPFFAN66CA,石牌段,69.55,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPPNMLMKNHPFFAN78CA,古夷段,80.09,都市：住
+RPUOMLMKNHPFFAN76CA,同安段,6907.27,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPWNMLLKNHPFFAN76CA,牛稠子段中庄子小段,77.00,都市：住
+RPPNMLRKNHPFFAN66CA,牛稠子段下小段,128.00,都市：住
+RPQOMLKLNHPFFAN88CA,西門口段,93.00,都市：住
+RPQOMLKLNHPFFAN88CA,西門口段,1.88,都市：住
+RPQOMLKLNHPFFAN88CA,西門口段,18.00,都市：住
+RPVRMLOKNHPFFAN37CA,溪南段,73.38,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPSNMLOLNHPFFAN76CA,阿夷段阿夷小段,68.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLPKNHPFFAN56CA,延和段,32.40,都市：住
+RPPNMLLMNHPFFAN88CA,牛稠子段山腳小段,504.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLPKNHPFFBN96CA,和東段,76.00,都市：住
+RPQOMLPJOHPFFAN66CA,牛稠子段山腳小段,22.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQOMLPJOHPFFAN66CA,牛稠子段山腳小段,73.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQOMLOJOHPFFAN56CA,東興段,112.00,都市：住
+RPQNMLOJOHPFFAN09CA,南郭段南郭小段,38.80,都市：住
+RPVNMLLKNHPFFBN76CA,伸股段,330.57,都市：住
+RPQNMLMKNHPFFCN09CA,上林段,3949.93,非都市：工業區 ; 非都市編定：丁種建築用地
+RPPOMLSLNHPFFBN07CA,福澤段,74.39,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSOMLQLNHPFFBN17CA,福澤段,2.23,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSOMLQLNHPFFBN17CA,福澤段,13.17,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSOMLQLNHPFFBN17CA,福澤段,75.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSOMLQLNHPFFBN17CA,福澤段,11.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLMKNHPFFCN56CA,外中段,1450.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLMKNHPFFCN56CA,外中段,889.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPUNMLLKNHPFFCN76CA,頂和段,88.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLLKNHPFFCN76CA,頂和段,5.00,非都市：特定農業區 ; 非都市編定：水利用地
+RPPNMLMKNHPFFDN09CA,同安段,2913.90,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLMKNHPFFDN09CA,同安段,2912.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLPJOHPFFDN96CA,和平段,29.21,都市：住
+RPRNMLPJOHPFFCN86CA,鹿草段,1.25,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPJOHPFFCN86CA,鹿草段,1.75,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPJOHPFFCN86CA,鹿草段,52.75,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPOMLNKNHPFFDN66CA,黃厝段,11.84,非都市：山坡地保育區 ; 非都市編定：丙種建築用地
+RPPOMLNKNHPFFDN66CA,黃厝段,32.35,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLLKNHPFFFN56CA,西斗段,2874.74,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLLKNHPFFFN56CA,西斗段,2943.85,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLLKNHPFFFN56CA,西斗段,3529.39,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLKNHPFFDN96CA,大饒段,78.91,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLNKNHPFFEN96CA,仁美段,20.81,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLNKNHPFFEN96CA,仁美段,72.81,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLLKNHPFFFN07CA,埔心段,32.97,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPUNMLLKNHPFFFN07CA,埔心段,63.64,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPUNMLLKNHPFFFN07CA,埔心段,5.44,非都市：特定農業區 ; 非都市編定：交通用地
+RPSNMLMKNHPFFFN96CA,中寮段,73.19,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLMKNHPFFFN96CA,中寮段,52.25,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLMKNHPFFFN96CA,中寮段,119.72,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLMKNHPFFFN96CA,中寮段,33.13,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLMKNHPFFFN96CA,中寮段,60.01,非都市：特定農業區 ; 非都市編定：農牧用地
+RPQNMLMLNHPFFDN66CA,黎明段,98.00,都市：商
+RPQNMLLJOHPFFDN09CA,大饒段,168.16,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLNKNHPFFFN07CA,福德段,97.00,都市：住
+RPUNMLOKNHPFFFN37CA,芳圃段,86.47,都市：住
+RPOOMLMKNHPFFAN88DA,西勢子段過溝子小段,5.60,都市：住
+RPTNMLOKNHPFFFN27CA,芳圃段,.82,都市：住
+RPTNMLOKNHPFFFN27CA,芳圃段,19.08,都市：住
+RPTNMLOKNHPFFFN27CA,芳圃段,.82,都市：住
+RPTNMLOKNHPFFFN27CA,芳圃段,21.84,都市：住
+RPTNMLOKNHPFFFN27CA,芳圃段,80.56,都市：住
+RPTNMLOKNHPFFFN27CA,芳圃段,.30,都市：住
+RPQNMLLLNHPFFAN98DA,東興段,26.00,都市：工
+RPTNMLPKNHPFFHN57CA,中山段,105.34,都市：住
+RPSNMLPKNHPFFHN47CA,中山段,105.25,都市：住
+RPTOMLNKNHPFFAN86DA,福安段,35.40,都市：商
+RPXNMLLKNHPFFGN57DA,芳林段,1694.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLPKNHPFFHN77CA,中山段,105.55,都市：住
+RPPOMLNKNHPFFAN09DA,茄荖段,106.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPUOMLNKNHPFFAN96DA,福安段,35.31,都市：商
+RPTNMLOKNHPFFHN47CA,南興段,2500.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPWNMLLKNHPFFHN47CA,北勢段,78.00,都市：住
+RPTNMLNJOHPFFHN37CA,富貴段,96.32,都市：住
+RPTNMLLJOHPFFCN76DA,鹿福段,26.88,都市：住
+RPTNMLLJOHPFFCN76DA,鹿福段,84.28,都市：住
+RPPNMLOKNHPFFGN96CA,芳埤段,2666.87,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLPKNHPFFHN17CA,永昌段,2344.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLNKNHPFFGN07CA,萬興段萬興小段,825.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPRNMLNKNHPFFGN07CA,萬興段萬興小段,2160.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPRNMLPKNHPFFHN37CA,仁華段,2062.15,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPUNMLPKNHPFFHN67CA,中山段,105.51,都市：住
+RPUNMLRLNHPFFFN77CA,登山段,949.28,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLOKNHPFFHN67CA,太平東段,.47,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLOKNHPFFHN67CA,太平東段,25.74,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLOKNHPFFHN67CA,太平東段,10.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLOKNHPFFHN67CA,太平東段,.40,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLNKNHPFFFN17CA,永豐段,101.08,都市：住
+RPWNMLTKNHPFFFN08CA,稻香段,290.13,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLTKNHPFFFN08CA,稻香段,257.71,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLTKNHPFFFN08CA,稻香段,35.32,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLSKNHPFFGN77CA,建新段,110.74,非都市：一般農業區 ; 非都市編定：甲種建築用地
+RPQNMLNKNHPFFFN86CA,大新段,7829.84,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLKLNHPFFFN76CA,大安段,28.15,都市：其他
+RPRNMLKLNHPFFFN76CA,大安段,187.00,都市：住
+RPRNMLKLNHPFFFN76CA,大安段,2.00,都市：住
+RPXNMLOKNHPFFEN57CA,仁美段,20.81,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPXNMLOKNHPFFEN57CA,仁美段,72.81,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLNJOHPFFEN66CA,復興段,124.00,都市：住
+RPTNMLNKNHPFFEN07CA,中央段,188.00,都市：商
+RPROMLMLNHPFFDN86CA,永社段,77.56,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPROMLMLNHPFFDN86CA,永社段,3.51,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPROMLMLNHPFFDN86CA,永社段,28.59,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPSNMLMKNHPFFEN86CA,中正段,63.11,都市：住
+RPQNMLTKNHPFFDN27CA,源潭段,11.61,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLTKNHPFFDN27CA,源潭段,75.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLPKNHPFFDN96CA,三條段,3.86,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,.83,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,104.17,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,.04,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,.83,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,12.35,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,.64,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,.30,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,.54,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,1.41,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,2.31,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,3.84,都市：住
+RPRNMLPKNHPFFDN96CA,三條段,18.80,都市：住
+RPXNMLLLNHPFFDN27CA,橋愛段,27.93,都市：住
+RPPNMLRKNHPFFDN96CA,溝皂段,96.16,都市：住
+RPQNMLRJOHPFFCN96CA,上林段,4975.25,非都市：工業區 ; 非都市編定：丁種建築用地
+RPQNMLRJOHPFFCN96CA,上林段,4273.60,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLNKNHPFFDN76CA,新林厝段,59.74,都市：住
+RPRNMLNKNHPFFDN76CA,新林厝段,30.39,都市：住
+RPWNMLLLNHPFFDN17CA,橋愛段,27.93,都市：住
+RPUNMLNKNHPFFEN17CA,中德段,82.00,都市：住
+RPVNMLKMNHPFFCN96CA,三元段,2610.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPUNMLOJOHPFFCN07CA,埔崙段,48.70,都市：住
+RPUNMLLLNHPFFCN86CA,大興段,2280.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLPJOHPFFCN96CA,鹿草段,52.75,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLPJOHPFFCN96CA,鹿草段,1.25,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLPJOHPFFCN96CA,鹿草段,1.75,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLOKNHPFFCN86CA,三元段,1671.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPWNMLMKNHPFFDN17CA,福中段,68.22,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPPNMLTJOHPFFAN86CA,民族段,.88,都市：其他
+RPROMLTKNHPFFAN17CA,富山段,88.35,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPROMLTKNHPFFAN17CA,富山段,75.17,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPROMLTKNHPFFAN17CA,富山段,167.80,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPVOMLQLNHPFFBN47CA,福澤段,70.60,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVOMLQLNHPFFBN47CA,福澤段,5.91,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVOMLQLNHPFFBN47CA,福澤段,8.38,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLSLNHPFFBN37CA,福澤段,2.23,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLSLNHPFFBN37CA,福澤段,13.15,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLSLNHPFFBN37CA,福澤段,67.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLSLNHPFFBN37CA,福澤段,11.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPXNMLPKNHPFFBN37CA,中興段,15.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPXNMLPKNHPFFBN37CA,中興段,52.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQRMLOKNHPFFAN86CA,牛稠子段牛稠子小段,252.00,都市：工
+RPQRMLOKNHPFFAN86CA,牛稠子段牛稠子小段,62.54,都市：工
+RPSNMLMLNHPFFAN56CA,西勢子段西勢子小段,14.91,都市：住
+RPSNMLMLNHPFFAN56CA,西勢子段西勢子小段,20.65,都市：住
+RPOOMLNKNHPFFAN88CA,新灣子口段,65.13,非都市：特定農業區 ; 非都市編定：農牧用地
+RPWNMLMKNHPFFAN86CA,金興段,650.50,非都市：特定農業區 ; 非都市編定：農牧用地
+RPQNMLSJOHPFFBN96CA,和東段,91.58,都市：住
+RPQNMLSKNHPFFAN86CA,南郭段南郭小段,24.11,都市：住
+RPQNMLSKNHPFFAN86CA,南郭段南郭小段,9.21,都市：住
+RPRNMLOLNHPFFAN66CA,西勢子段西勢子小段,18.73,都市：住
+RPRNMLOLNHPFFAN66CA,西勢子段西勢子小段,1.03,都市：住
+RPRNMLOLNHPFFAN66CA,西勢子段西勢子小段,1.30,都市：住
+RPRNMLOKNHPFFAN56CA,橋頭段,27.30,都市：其他
+RPURMLOKNHPFFAN27CA,西勢子段過溝子小段,20.99,都市：住
+RPVNMLTKNHPFFAN47CA,南郭段南郭小段,22.12,都市：住
+RPQNMLOKNHPFFAN09CA,橋頭段,402.87,都市：其他
+RPSNMLOKNHPFFAN66CA,橋頭段,72.79,都市：其他
+RPTNMLOKNHPFFAN76CA,學前段,226.07,都市：其他
+RPWNMLOKNHPFFAN07CA,華南段,45.44,都市：其他
+RPUNMLOKNHPFFAN86CA,學前段,51.90,都市：其他
+RPOOMLOKNHPFFAN98CA,華南段,45.44,都市：其他
+RPXNMLOKNHPFFAN17CA,華南段,45.44,都市：其他
+RPPOMLOKNHPFFAN09CA,華南段,181.76,都市：其他
+RPVNMLOKNHPFFAN96CA,學前段,51.90,都市：其他
+RPQOMLOKNHPFFAN56CA,華南段,53.21,都市：其他
+RPSOMLOKNHPFFAN76CA,華南段,53.21,都市：其他
+RPTOMLOKNHPFFAN86CA,華南段,53.21,都市：其他
+RPROMLOKNHPFFAN66CA,華南段,53.21,都市：其他
+RPVOMLOKNHPFFAN07CA,華南段,88.68,都市：其他
+RPWOMLOKNHPFFAN17CA,華南段,45.44,都市：其他
+RPUOMLOKNHPFFAN96CA,華南段,88.68,都市：其他
+RPXOMLOKNHPFFAN27CA,華南段,465.85,都市：其他
+RPRPMLOKNHPFFAN76CA,華南段,224.40,都市：其他
+RPPPMLOKNHPFFAN56CA,華南段,93.96,都市：其他
+RPSPMLOKNHPFFAN86CA,華南段,224.40,都市：其他
+RPOPMLOKNHPFFAN09CA,華南段,187.92,都市：其他
+RPTPMLOKNHPFFAN96CA,華南段,50.63,都市：其他
+RPVPMLOKNHPFFAN17CA,華南段,458.74,都市：其他
+RPQPMLOKNHPFFAN66CA,華南段,93.96,都市：其他
+RPWPMLOKNHPFFAN27CA,華南段,53.21,都市：其他
+RPXPMLOKNHPFFAN37CA,新中庄段,524.57,非都市：特定農業區 ; 非都市編定：水利用地
+RPUPMLOKNHPFFAN07CA,華南段,50.63,都市：其他
+RPRQMLOKNHPFFAN86CA,新中庄段,2.86,非都市：特定農業區 ; 非都市編定：水利用地
+RPRQMLOKNHPFFAN86CA,新中庄段,22.67,非都市：特定農業區 ; 非都市編定：水利用地
+RPQQMLOKNHPFFAN76CA,新中庄段,301.76,非都市：特定農業區 ; 非都市編定：水利用地
+RPPQMLOKNHPFFAN66CA,新中庄段,301.76,非都市：特定農業區 ; 非都市編定：水利用地
+RPOQMLOKNHPFFAN56CA,新中庄段,359.79,非都市：特定農業區 ; 非都市編定：水利用地
+RPOQMLOKNHPFFAN56CA,新中庄段,149.83,非都市：特定農業區 ; 非都市編定：水利用地
+RPQSMLOKNHPFFAN96CA,馬興段,1712.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPTQMLOKNHPFFAN07CA,新中庄段,531.60,非都市：特定農業區 ; 非都市編定：水利用地
+RPQNMLKLNHPFFAN78CA,三家段,7702.06,非都市：山坡地保育區 ; 非都市編定：丁種建築用地
+RPPNMLKLNHPFFAN68CA,三家段,1534.73,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPSOMLTKNHPFFAN27CA,新縣庄段,326.76,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPORMLOKNHPFFAN66CA,中華段,92.00,都市：商
+RPUOMLKLNHPFFAN66CA,彰化段西門小段,136.00,都市：住
+RPPNMLSJOHPFFBN86CA,福澤段,82.16,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSQMLOKNHPFFAN96CA,新中庄段,199.35,非都市：特定農業區 ; 非都市編定：水利用地
+RPSQMLOKNHPFFAN96CA,新中庄段,182.10,非都市：特定農業區 ; 非都市編定：水利用地
+RPRNMLPKNHPFFAN66CA,新快官段,51.07,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPKNHPFFAN66CA,新快官段,2.09,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPKNHPFFAN66CA,新快官段,.69,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPKNHPFFAN66CA,新快官段,11.42,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPKNHPFFAN66CA,新快官段,.01,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPKNHPFFAN66CA,新快官段,2.78,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPKNHPFFAN66CA,新快官段,.83,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPKNHPFFAN66CA,新快官段,5.68,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPKNHPFFAN66CA,新快官段,.21,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVOMLKLNHPFFAN76CA,南郭段南郭小段,37.11,都市：住
+RPPNMLOKNHPFFBN09CA,中興段,91.00,都市：住
+RPWOMLPKNHPFFCN47CA,永安段,175.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWOMLPKNHPFFCN47CA,永安段,557.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLOKNHPFFCN76CA,上林段,4612.28,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLOKNHPFFCN76CA,上林段,4615.88,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLOKNHPFFCN76CA,上林段,4877.48,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLOKNHPFFCN76CA,上林段,4891.67,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLOKNHPFFCN76CA,上林段,9253.89,非都市：工業區 ; 非都市編定：丁種建築用地
+RPSNMLKLNHPFFCN56CA,元興段,718.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSOMLKLNHPFFAN09CA,中華段,71.00,都市：商
+RPQOMLSLNHPFFBN17CA,福澤段,2.23,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQOMLSLNHPFFBN17CA,福澤段,70.09,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQOMLSLNHPFFBN17CA,福澤段,13.15,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQOMLSLNHPFFBN17CA,福澤段,11.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPROMLSLNHPFFBN27CA,福澤段,2.23,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPROMLSLNHPFFBN27CA,福澤段,70.90,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPROMLSLNHPFFBN27CA,福澤段,13.15,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPROMLSLNHPFFBN27CA,福澤段,11.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLQLNHPFFCN17CA,元興段,475.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPQNMLPJOHPFFCN76CA,鹿安段,88.11,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLTJOHPFFCN57CA,外中段,81.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLRJOHPFFCN07CA,上林段,992.63,非都市：工業區 ; 非都市編定：丁種建築用地
+RPQNMLOKNHPFFDN76CA,源聖段,135.01,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLOKNHPFFDN86CA,同安段,238.03,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLMLNHPFFDN86CA,溝皂段,813.31,都市：住
+RPTNMLTKNHPFFDN57CA,大庄段,305.83,都市：住
+RPOOMLLJOHPFFDN98CA,惠來段,19.90,都市：其他
+RPRNMLPLNHPFFDN07CA,新中州段,2.44,都市：住
+RPUNMLOKNHPFFDN17CA,員林段,3.30,都市：住
+RPPOMLLJOHPFFDN09CA,中山段,28.12,都市：其他
+RPTNMLMLNHPFFDN96CA,三和段,353.48,都市：住
+RPTNMLMLNHPFFDN96CA,三和段,353.35,都市：住
+RPUNMLTKNHPFFDN67CA,橋愛段,4.07,都市：住
+RPUNMLTKNHPFFDN67CA,橋愛段,96.68,都市：住
+RPQNMLPKNHPFFDN86CA,永美段,1340.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPWNMLNKNHPFFEN37CA,新埤清段,148.01,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLNKNHPFFEN37CA,新埤清段,3.12,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLNKNHPFFEN37CA,新埤清段,2.09,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLNKNHPFFEN37CA,新埤清段,4.13,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLNKNHPFFEN37CA,新埤清段,1.17,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLOKNHPFFEN07CA,大丘園段,881.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLPKNHPFFEN07CA,大丘園段,3545.00,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPRNMLOKNHPFFEN96CA,社興段,2300.00,非都市：特定農業區 ; 非都市編定：特定目的事業用地
+RPRNMLOKNHPFFEN96CA,社興段,2420.21,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLOKNHPFFEN96CA,社興段,200.01,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLOKNHPFFEN96CA,社興段,160.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPQNMLPLNHPFFEN07CA,新民段,707.66,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLLKOHPFFDN09CA,莒光段,29.12,都市：住
+RPPNMLKMNHPFFEN56CA,中新段,102.00,都市：住
+RPRNMLKMNHPFFEN76CA,中新段,109.00,都市：住
+RPVNMLNKNHPFFEN27CA,中新段,138.00,都市：住
+RPTNMLKMNHPFFEN96CA,中新段,110.00,都市：住
+RPPNMLOKNHPFFFN86CA,頂豐段,122.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQOMLQLNHPFFFN37CA,大安段,269.00,都市：農
+RPQOMLQLNHPFFFN37CA,中寮段,273.50,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLKMNHPFFEN86CA,中新段,120.00,都市：住
+RPQNMLTKNHPFFFN47CA,永豐段,7.79,都市：住
+RPQNMLTJOHPFFFN47CA,元埔段,54.50,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLTJOHPFFFN47CA,元埔段,183.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLOKNHPFFGN07CA,美豐段,2044.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPQNMLKMNHPFFEN66CA,中新段,133.00,都市：住
+RPTNMLNKNHPFFGN27CA,草二段,180.64,非都市：一般農業區 ; 非都市編定：農牧用地
+RPTNMLNKNHPFFGN27CA,草二段,181.70,非都市：一般農業區 ; 非都市編定：農牧用地
+RPVNMLOJOHPFFFN47CA,湄洲段,117.00,都市：住
+RPQOMLTKNHPFFGN67CA,竹圍子段,559.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLOJOHPFFHN07CA,河東段,884.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLSLNHPFFFN57CA,螺青段,15.36,都市：住
+RPRNMLSLNHPFFFN57CA,螺青段,66.00,都市：住
+RPPNMLPKNHPFFEN96DA,中賢段,89.00,都市：住
+RPUNMLTLNHPFFBN67DA,大霞段,1115.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLSJNHPFFEN37CD,文聖段,76.00,都市：商
+RPQNMLLLNHPFFDN66DA,源聖段,151.01,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLKLNHPFFCN09DA,文開段,17.15,都市：商
+RPRNMLLLNHPFFDN76DA,源聖段,737.37,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLOKNHPFFHN47EA,新興段,25.00,都市：住
+RPXNMLTKNHPFFCN97DA,永福段,446.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPPOMLTKNHPFFHN77DA,三興段,1572.33,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPOMLTKNHPFFHN77DA,三興段,1857.18,非都市：特定農業區 ; 非都市編定：農牧用地
+RPROMLTKNHPFFGN87DA,東城段,136.24,都市：農
+RPROMLTKNHPFFGN87DA,東城段,35.80,都市：農
+RPPOMLTKNHPFFGN57CA,芳崎段,2500.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPOMLNJOHPFFAN09DA,大德段,129.57,非都市：山坡地保育區 ; 非都市編定：丙種建築用地
+RPPNMLPKNHPFFBN66DA,調興段,57.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLPKNHPFFBN66DA,調興段,97.06,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPSMLOKNHPFFAN96DA,金馬段,176.38,都市：住
+RPQNMLQLNHPFFAN86DA,新東興段,.12,都市：住
+RPPNMLMLNHPFFHN96CA,新興段,124.00,都市：農
+RPPNMLMLNHPFFHN96CA,新興段,13.00,都市：其他
+RPPNMLMLNHPFFHN96CA,新興段,7.00,都市：其他
+RPSNMLOKNHPFFGN27CA,建山段,100.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPWNMLNJOHPFFHN67CA,仁華段,205.76,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPUNMLPKNHPFFGN57CA,尤仕段,2000.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPUNMLLLNHPFFGN27CA,芳草段,113.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLOKNHPFFHN37CA,東寮段,47.38,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLPKNHPFFGN27CA,芳寶段,1483.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLKLNHPFFGN86CA,竹林段,1751.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLPKNHPFFGN77CA,西庄段,85.20,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLPKNHPFFGN77CA,西庄段,13.37,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLTKNHPFFHN08CA,太平東段,8.39,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLTKNHPFFHN08CA,太平東段,82.57,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLTKNHPFFHN08CA,太平東段,8.60,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLTKNHPFFHN08CA,太平東段,.54,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLPKNHPFFGN37CA,芳草段,72.64,非都市：一般農業區 ; 非都市編定：甲種建築用地
+RPQNMLSKNHPFFFN37CA,新政段,79.00,都市：住
+RPQNMLSKNHPFFFN37CA,新政段,3.12,都市：住
+RPQNMLSKNHPFFFN37CA,新政段,19.25,都市：住
+RPUNMLTJOHPFFFN87CA,光中段,81.82,都市：住
+RPRNMLOKNHPFFFN07CA,芳平段,50.39,都市：農
+RPPNMLTKNHPFFEN27CA,新民段,3.69,都市：農
+RPPNMLTKNHPFFEN27CA,新民段,23.42,都市：農
+RPPNMLTKNHPFFEN27CA,新民段,16.06,都市：農
+RPPNMLTKNHPFFEN27CA,新民段,66.50,都市：農
+RPPNMLTKNHPFFEN27CA,新民段,5.67,都市：農
+RPVNMLTJOHPFFFN97CA,光中段,91.03,都市：住
+RPRNMLTKNHPFFEN47CA,裕民段,130.38,都市：住
+RPVNMLOKNHPFFEN37CA,社石段,898.63,非都市：特定農業區 ; 非都市編定：農牧用地
+RPWNMLTJOHPFFFN08CA,光中段,89.99,都市：住
+RPQNMLKLNHPFFFN66CA,福德段,96.00,都市：住
+RPOOMLTKNHPFFEN27CA,裕民段,19.84,都市：住
+RPOOMLTKNHPFFEN27CA,裕民段,3.31,都市：住
+RPXNMLTJOHPFFFN18CA,光中段,93.18,都市：住
+RPQNMLPLNHPFFDN96CA,新中州段,2.10,都市：住
+RPTNMLSJOHPFFCN37CA,東昇段,10.38,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPSNMLPLNHPFFDN17CA,新中州段,3.36,都市：住
+RPPNMLSKNHPFFCN96CA,永豐段,241.00,非都市：鄉村區 ; 非都市編定：丁種建築用地
+RPUNMLKLNHPFFCN76CA,東昇段,44.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLSKNHPFFCN07CA,永豐段,241.00,非都市：鄉村區 ; 非都市編定：丁種建築用地
+RPVNMLTKNHPFFCN67CA,大興段,1623.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLPKNHPFFCN66CA,文昌段,3080.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLOKNHPFFCN56CA,玉順段,20.38,都市：住
+RPQNMLOKNHPFFCN66CA,玉順段,2.22,都市：住
+RPTNMLTLNHPFFBN47CA,大嘉段,107.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLOKNHPFFBN56CA,和群段,83.21,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLOKNHPFFBN56CA,和群段,262.73,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLOKNHPFFBN56CA,和群段,131.37,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLOKNHPFFBN56CA,和群段,306.52,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLOKNHPFFBN56CA,和群段,262.73,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLOKNHPFFBN56CA,和群段,11.38,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLRKNHPFFBN76CA,和中段,93.00,都市：住
+RPTNMLKLNHPFFCN66CA,東昇段,3.32,都市：住
+RPTNMLKLNHPFFCN66CA,東昇段,60.00,都市：住
+RPTNMLKLNHPFFCN66CA,東昇段,2.80,都市：住
+RPQNMLRKNHPFFBN86CA,泰平段,184.38,非都市：特定農業區 ; 非都市編定：農牧用地
+RPTPMLSJOHPFFAN37CA,金馬段,80.47,都市：住
+RPTPMLSJOHPFFAN37CA,金馬段,1.63,都市：住
+RPRNMLRKNHPFFBN96CA,泰平段,46.09,非都市：特定農業區 ; 非都市編定：農牧用地
+RPUNMLRKNHPFFBN27CA,泰平段,46.09,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLNJOHPFFAN56CA,福岩段,1112.63,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPTNMLRKNHPFFBN17CA,泰平段,46.09,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLRKNHPFFBN07CA,泰平段,46.09,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPOMLTKNHPFFAN96CA,大埔段,9.00,都市：住
+RPPOMLTKNHPFFAN96CA,大埔段,56.00,都市：住
+RPUNMLNJOHPFFAN76CA,大埔段,22.80,都市：住
+RPPNMLOLNHPFFAN09CA,溪北段,76.71,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLMLNHPFFAN66CA,大埔段,107.00,都市：住
+RPTOMLKLNHPFFAN56CA,南郭段南郭小段,230.00,都市：住
+RPUNMLKLNHPFFAN56CA,三民段,37.05,都市：住
+RPUNMLKLNHPFFAN56CA,三民段,5.68,都市：其他
+RPSNMLPKNHPFFAN76CA,彰泰段,24.86,都市：住
+RPSNMLPKNHPFFAN76CA,彰泰段,.03,都市：住
+RPRNMLTKNHPFFAN07CA,北口段,3204.25,都市：工
+RPTNMLKLNHPFFAN09CA,三民段,35.13,都市：住
+RPQNMLTKNHPFFAN96CA,西勢子段西勢子小段,107.00,都市：住
+RPPNMLTKNHPFFAN86CA,台鳳段,97.12,非都市：山坡地保育區 ; 非都市編定：特定目的事業用地
+RPUNMLTKNHPFFAN37CA,牛稠子段中庄子小段,134.00,都市：住
+RPVNMLSKNHPFFAN37CA,古夷段,97.19,都市：住
+RPRNMLKLNHPFFAN88CA,莿桐段,19.00,都市：住
+RPOOMLSKNHPFFAN76CA,成功段,4.80,都市：商
+RPPNMLPKNHPFFAN09CA,中崙段,2581.40,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPSNMLTKNHPFFAN17CA,南郭段南郭小段,34.64,都市：住
+RPWNMLTKNHPFFAN57CA,牛稠子段牛稠子小段,82.00,都市：住
+RPQNMLTKNHPFFCN17CA,秀安段,171.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLTKNHPFFCN17CA,秀安段,42.89,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLTJOHPFFBN96CA,宏濱段,21357.82,非都市：工業區 ; 非都市編定：丁種建築用地
+RPROMLMJOHPFFAN09CA,西勢子段過溝子小段,17.02,都市：住
+RPROMLMJOHPFFAN09CA,西勢子段過溝子小段,2.76,都市：住
+RPQOMLNJOHPFFAN09CA,西興段,82.00,都市：住
+RPQOMLNJOHPFFAN09CA,西興段,78.00,都市：住
+RPXNMLSLNHPFFAN67CA,牛稠子段牛稠子小段,69.00,都市：住
+RPSNMLSKNHPFFDN37CA,三條圳段十七份小段,29.11,都市：住
+RPOOMLSKNHPFFDN07CA,永中段,80.51,都市：住
+RPOOMLSKNHPFFDN07CA,永中段,14.48,都市：住
+RPPNMLSJOHPFFAN76CA,西勢子段西勢子小段,15.32,都市：住
+RPTNMLLLNHPFFAN56CA,西門口段,18.38,都市：住
+RPTNMLLLNHPFFAN56CA,西門口段,.45,都市：住
+RPTNMLLLNHPFFAN56CA,西門口段,1.63,都市：住
+RPTNMLSLNHPFFDN57CA,民生段,104.00,都市：住
+RPSNMLTKNHPFFCN37CA,龍山段,99.11,都市：商
+RPSNMLTKNHPFFCN37CA,龍山段,4.77,都市：商
+RPSNMLTKNHPFFCN37CA,龍山段,1.56,都市：住
+RPSNMLTKNHPFFCN37CA,龍山段,14.01,都市：住
+RPQOMLQLNHPFFDN17CA,豐年段,15.65,都市：住
+RPQOMLQLNHPFFDN17CA,豐年段,55.94,都市：住
+RPQOMLQLNHPFFDN17CA,豐年段,14.18,都市：住
+RPUNMLPKOHPFFDN37CA,僑信段,11.79,都市：住
+RPWNMLLJOHPFFDN07CA,僑信段,14.33,都市：住
+RPWNMLLJOHPFFDN07CA,僑信段,72.14,都市：住
+RPPOMLSJOHPFFDN17CA,豐年段,147.41,都市：住
+RPOOMLSJOHPFFDN07CA,豐年段,131.06,都市：住
+RPQOMLMLNHPFFDN76CA,源潭段,17.65,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQOMLMLNHPFFDN76CA,源潭段,73.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQOMLMLNHPFFDN76CA,源潭段,15.37,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPPOMLTKNHPFFEN37CA,裕民段,19.84,都市：住
+RPPOMLTKNHPFFEN37CA,裕民段,3.31,都市：住
+RPPNMLTJOHPFFDN17CA,黎明段,64.48,都市：住
+RPQNMLSKNHPFFEN27CA,山腳段,100.92,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLSKNHPFFEN27CA,山腳段,99.47,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLSKNHPFFEN27CA,山腳段,92.04,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLRLNHPFFFN87CA,進樂段,156.53,都市：住
+RPSNMLTKNHPFFFN67CA,新埤頭段,36.25,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLRLNHPFFFN97CA,進樂段,157.21,都市：住
+RPRNMLPLNHPFFFN27CA,復興段,123.93,都市：住
+RPQNMLPKNHPFFFN07CA,下水埔段,615.50,非都市：一般農業區 ; 非都市編定：農牧用地
+RPQNMLPLNHPFFFN17CA,復興段,164.13,都市：住
+RPSNMLPLNHPFFFN37CA,復興段,129.11,都市：住
+RPTNMLTKNHPFFEN67CA,裕民段,130.38,都市：住
+RPPNMLMLNHPFFFN76CA,芳圃段,81.17,都市：住
+RPXNMLTKNHPFFFN18CA,埔心段,337.79,非都市：特定農業區 ; 非都市編定：農牧用地
+RPXNMLTKNHPFFFN18CA,埔心段,638.68,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLRKNHPFFFN17CA,埔東段,3073.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPQNMLMLNHPFFFN86CA,芳圃段,.82,都市：住
+RPQNMLMLNHPFFFN86CA,芳圃段,.82,都市：住
+RPQNMLMLNHPFFFN86CA,芳圃段,21.84,都市：住
+RPQNMLMLNHPFFFN86CA,芳圃段,80.65,都市：住
+RPQNMLMLNHPFFFN86CA,芳圃段,.30,都市：住
+RPPNMLPLNHPFFGN17CA,趙甲段,1807.17,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLTKNHPFFGN67CA,草湖段,2425.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPTNMLPKNHPFFGN47CA,儒德段,16.11,都市：住
+RPQNMLPKNHPFFGN27DA,面前厝段,820.33,非都市：特定農業區 ; 非都市編定：農牧用地
+RPOOMLNJOHPFFAN98DA,三家段,26.78,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPOOMLNJOHPFFAN98DA,三家段,20.11,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLSKNHPFFHN77DA,梧鳳段,119.51,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLKLNHPFFGN76DA,二林段,87.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLTKNHPFFBN07DA,新賢段,21.03,都市：農
+RPPNMLTKNHPFFBN07DA,新賢段,4.89,都市：農
+RPPNMLTKNHPFFBN07DA,新賢段,2.54,都市：農
+RPPNMLTKNHPFFBN07DA,新賢段,.02,都市：農
+RPPNMLSKNHPFFHN47CA,湖北段,125.87,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLTKNHPFFBN17DA,順天段,92.01,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLTKNHPFFGN18DA,芳成段,5.85,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLTKNHPFFGN18DA,芳成段,145.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLTKNHPFFGN18DA,芳成段,5.15,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLTKNHPFFGN18DA,芳成段,1.10,非都市：鄉村區 ; 非都市編定：交通用地
+RPVNMLTKNHPFFGN18DA,芳成段,1.75,非都市：鄉村區 ; 非都市編定：交通用地
+RPVNMLTKNHPFFGN18DA,芳成段,1.20,非都市：鄉村區 ; 非都市編定：交通用地
+RPPNMLRLNHPFFHN47CA,太平東段,8.84,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLRLNHPFFHN47CA,太平東段,40.32,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLRLNHPFFHN47CA,太平東段,3.60,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLRLNHPFFHN47CA,太平東段,113.80,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLRLNHPFFHN47CA,太平東段,120.16,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLRLNHPFFHN47CA,太平東段,6.88,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLSKNHPFFFN67DA,芳圃段,92.29,都市：住
+RPQNMLMLNHPFFHN07CA,義民段,63.91,都市：住
+RPQNMLMLNHPFFHN07CA,義民段,1.29,都市：住
+RPQNMLMLNHPFFHN07CA,義民段,.21,都市：住
+RPQNMLMLNHPFFHN07CA,義民段,6.91,都市：住
+RPQNMLMLNHPFFHN07CA,義民段,.15,都市：住
+RPQNMLMLNHPFFHN07CA,義民段,.24,都市：其他
+RPQNMLMLNHPFFHN07CA,義民段,.03,都市：其他
+RPPNMLRLNHPFFAN86DA,新灣子口段,43.60,非都市：鄉村區 ; 非都市編定：特定目的事業用地
+RPPOMLRLNHPFFAN96DA,福元段,91.03,非都市：山坡地保育區 ; 非都市編定：特定目的事業用地
+RPPOMLRLNHPFFAN96DA,福元段,9.10,非都市：山坡地保育區 ; 非都市編定：特定目的事業用地
+RPWNMLLKOHPFFHN57CA,頂庄段,101.30,都市：住
+RPXNMLLKOHPFFHN67CA,頂庄段,115.80,都市：住
+RPPNMLMLNHPFFEN76DA,新工段,2547.40,非都市：工業區 ; 非都市編定：丁種建築用地
+RPPNMLMLNHPFFEN76DA,新工段,302.60,非都市：工業區 ; 非都市編定：丁種建築用地
+RPPNMLMLNHPFFEN76DA,新工段,1897.80,非都市：工業區 ; 非都市編定：丁種建築用地
+RPPNMLMLNHPFFEN76DA,新工段,1050.20,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLTKNHPFFHN77CA,大庭段,238.00,都市：住
+RPSNMLTKNHPFFHN87CA,大庭段,155.00,都市：住
+RPOOMLLKOHPFFHN86CA,頂庄段,17.00,都市：住
+RPWNMLTKNHPFFHN28CA,新水段,896.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPOOMLTKNHPFFHN57CA,新水段,1881.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPTNMLTKNHPFFHN97CA,大庭段,226.00,都市：住
+RPPNMLKLNHPFFHN76CA,永興段,810.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPPNMLKLNHPFFHN76CA,永興段,112.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPTNMLTKNHPFFGN87CA,芳頂段,1558.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLSKNHPFFGN97CA,芳草段,84.81,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSOMLTKNHPFFGN87CA,柳子溝段,3009.29,非都市：一般農業區 ; 非都市編定：農牧用地
+RPRNMLSKNHPFFGN57CA,外竹段,2495.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLSKNHPFFGN57CA,外竹段,3743.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPUNMLSKNHPFFGN87CA,芳草段,106.40,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQOMLTKNHPFFEN47CA,裕民段,19.84,都市：住
+RPQOMLTKNHPFFEN47CA,裕民段,3.31,都市：住
+RPXNMLTKNHPFFGN28CA,儒生段,29.16,都市：商
+RPVNMLTKNHPFFEN87CA,裕民段,130.38,都市：住
+RPROMLTKNHPFFEN57CA,中央段,103.70,都市：住
+RPQNMLLKOHPFFDN56CA,黃厝段,133.96,非都市：山坡地保育區 ; 非都市編定：丙種建築用地
+RPQNMLLKOHPFFDN56CA,黃厝段,5.02,非都市：山坡地保育區 ; 非都市編定：丙種建築用地
+RPQNMLLKOHPFFDN56CA,黃厝段,10.96,非都市：山坡地保育區 ; 非都市編定：丙種建築用地
+RPPNMLTKNHPFFDN17CA,惠來段,25.50,都市：住
+RPRNMLKLNHPFFDN56CA,新崙雅段,38.70,非都市：特定農業區 ; 非都市編定：水利用地
+RPWNMLTKNHPFFGN18CA,儒田段,74.29,都市：住
+RPWNMLSKNHPFFDN77CA,三義段,44.66,都市：商
+RPQOMLKKOHPFFDN56CA,復興段,158.30,都市：住
+RPTNMLTKNHPFFCN47CA,三豐段,1885.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPWNMLTKNHPFFCN77CA,永豐段,2200.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLMLNHPFFCN66CA,鹿鳴段,42.80,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPPNMLRKOHPFFDN07CA,東興段,94.58,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPXNMLPJOHPFFBN37CA,和南段,525.00,都市：其他
+RPXNMLPJOHPFFBN37CA,和南段,1490.00,都市：工
+RPXNMLPJOHPFFBN37CA,和南段,1022.00,都市：工
+RPXNMLPJOHPFFBN37CA,和南段,2323.00,都市：工
+RPXNMLPJOHPFFBN37CA,和南段,867.00,都市：其他
+RPXNMLPJOHPFFBN37CA,和南段,104.00,都市：工
+RPXNMLPJOHPFFBN37CA,和南段,75.00,都市：其他
+RPRNMLKLNHPFFBN98CA,福泉段,26.94,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLLLNHPFFBN88CA,泰平段,116.34,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLMKOHPFFAN88CA,三民段,8.43,都市：其他
+RPPNMLMKOHPFFAN88CA,三民段,.32,都市：其他
+RPPNMLMKOHPFFAN88CA,三民段,6.30,都市：其他
+RPPNMLMKOHPFFAN88CA,民生段,.24,都市：其他
+RPPNMLMKOHPFFAN88CA,民生段,3.73,都市：其他
+RPXNMLTLNHPFFAN77CA,大埔段,25.59,都市：其他
+RPOOMLTLNHPFFAN96CA,大埔段,18.41,都市：其他
+RPUNMLPJOHPFFBN07CA,和群段,173.01,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLKMNHPFFAN88CA,中山段,37.00,都市：其他
+RPUNMLQKOHPFFBN27CA,大雅段,95.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPUNMLQKOHPFFBN27CA,大雅段,15.04,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPUNMLQKOHPFFBN27CA,大雅段,3.36,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPVNMLLKOHPFFAN76CA,新莿桐段,13.04,都市：住
+RPPNMLLLNHPFFAN78CA,南興段,67.00,都市：住
+RPQOMLQLNHPFFAN86CA,西勢子段過溝子小段,55.00,都市：住
+RPWNMLMLNHPFFAN96CA,延平段,88.00,都市：住
+RPRNMLLJOHPFFAN88CA,南口段,16.82,都市：住
+RPRNMLLJOHPFFAN88CA,南口段,74.17,都市：住
+RPRNMLLJOHPFFAN88CA,南口段,.35,都市：住
+RPRNMLLJOHPFFAN88CA,南口段,1.32,都市：住
+RPRNMLLJOHPFFAN88CA,南口段,.15,都市：住
+RPVNMLRLNHPFFAN37CA,新快官段,104.31,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLRLNHPFFAN37CA,新快官段,2.09,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLRLNHPFFAN37CA,新快官段,.69,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLRLNHPFFAN37CA,新快官段,11.42,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLRLNHPFFAN37CA,新快官段,.01,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLRLNHPFFAN37CA,新快官段,2.78,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLRLNHPFFAN37CA,新快官段,.83,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLRLNHPFFAN37CA,新快官段,5.68,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLQLNHPFFBN27CA,伸榮段,175.00,都市：住
+RPUNMLQLNHPFFBN27CA,伸榮段,3.00,都市：住
+RPRNMLQLNHPFFBN96CA,曾家段,1122.33,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLKLNHPFFBN78CA,福新段,423.46,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLKLNHPFFBN78CA,福新段,510.02,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLKLNHPFFBN78CA,福新段,461.45,非都市：一般農業區 ; 非都市編定：農牧用地
+RPWNMLSKOHPFFAN57CA,中華段,72.00,都市：商
+RPSNMLLKOHPFFBN56CA,福澤段,86.76,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLNLNHPFFAN98CA,台鳳段,206.79,非都市：山坡地保育區 ; 非都市編定：特定目的事業用地
+RPOOMLSKOHPFFAN86CA,延和段,77.00,都市：住
+RPOOMLPKOHPFFBN66CA,興安段,269.84,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLQKOHPFFCN17CA,上林段,233.35,非都市：工業區 ; 非都市編定：丁種建築用地
+RPSNMLQKOHPFFCN17CA,上林段,257.99,非都市：工業區 ; 非都市編定：丁種建築用地
+RPSNMLOJOHPFFBN76CA,興安段,493.78,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLRLNHPFFCN17CA,上林段,48961.28,都市：工
+RPPNMLKLNHPFFDN98CA,永南段,26.40,都市：住
+RPPNMLKLNHPFFDN98CA,永南段,6.75,都市：住
+RPPNMLKLNHPFFDN98CA,永南段,449.57,都市：住
+RPPNMLKLNHPFFDN98CA,永南段,4.54,都市：其他
+RPPNMLKLNHPFFDN98CA,永南段,15.53,都市：其他
+RPOOMLTKNHPFFCN07CA,玉順段,56.95,都市：住
+RPPNMLLLNHPFFDN09CA,永昌段,109.85,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLLLNHPFFDN09CA,永昌段,24.23,非都市：鄉村區 ; 非都市編定：農牧用地
+RPPNMLLLNHPFFDN09CA,永昌段,39.62,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLLLNHPFFDN09CA,永昌段,22.46,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLMLNHPFFDN07CA,中央段,10.01,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLKLNHPFFCN09CA,中興段,74.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLKLNHPFFCN09CA,中興段,1.67,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLKLNHPFFCN09CA,中興段,12.20,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLKLNHPFFCN09CA,中興段,6.60,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLKLNHPFFCN09CA,中興段,1.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLKLNHPFFDN09CA,新崙雅段,39.92,都市：住
+RPQNMLKLNHPFFDN09CA,新崙雅段,121.51,都市：住
+RPQNMLPLNHPFFCN86CA,鹿草段,108.22,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLKLNHPFFEN09CA,中正段,3.32,都市：其他
+RPPOMLOJOHPFFDN76CA,鎮安段,113.30,非都市：特定農業區 ; 非都市編定：農牧用地
+RPQNMLKLNHPFFEN56CA,社興段,66.45,都市：農
+RPRNMLKLNHPFFEN66CA,文武段,77.13,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLMLNHPFFDN17CA,三義段,55.73,都市：住
+RPRNMLPLNHPFFEN17CA,大丘園段,28.50,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLPLNHPFFEN17CA,大丘園段,108.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLMLNHPFFDN17CA,三義段,1.36,都市：住
+RPQNMLNJOHPFFDN66CA,豐年段,125.94,都市：住
+RPSNMLKLNHPFFGN96CA,新生段,284.00,都市：住
+RPQNMLQLNHPFFEN17CA,東源段,152.56,都市：住
+RPQNMLQLNHPFFEN17CA,東源段,5.08,都市：住
+RPQNMLQLNHPFFEN17CA,東源段,7.88,都市：住
+RPQNMLQLNHPFFEN17CA,東源段,57.24,都市：住
+RPTNMLKLNHPFFFN96CA,成功段,26.21,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLKLNHPFFFN96CA,成功段,68.98,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLTKNHPFFFN77CA,中圳段,2442.08,非都市：特定農業區 ; 非都市編定：農牧用地
+RPTNMLTKNHPFFFN77CA,中圳段,509.35,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLRLNHPFFEN47CA,中山段,8.30,都市：住
+RPPNMLLLNHPFFGN76CA,美豐段,1118.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPOOMLTKNHPFFGN47CA,儒芳段,100.38,都市：住
+RPRNMLLLNHPFFHN07CA,羅厝段,1087.88,非都市：特定農業區 ; 非都市編定：農牧用地
+RPTNMLKLNHPFFBN66DA,福澤段,104.38,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLKLNHPFFHN07CA,顯光段,2614.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPUNMLKLNHPFFHN27CA,顯光段,2613.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLNLNHPFFFN86CA,彰興段,70.65,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLNLNHPFFFN86CA,彰興段,29.90,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLMLNHPFFGN37CA,芳草段,77.55,非都市：一般農業區 ; 非都市編定：甲種建築用地
+RPWOMLSLNHPFFAN77DA,曾厝段,3.10,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPWOMLSLNHPFFAN77DA,曾厝段,13.40,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPWOMLSLNHPFFAN77DA,曾厝段,38.50,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPPNMLLLNHPFFHN96DA,瓦窯南段,55.03,非都市：鄉村區 ; 非都市編定：乙種建築用地
+SPPNMLLLNHPFFHN07DA,瓦窯南段,55.03,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLQLNHPFFCN07DA,東昇段,70.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLKLNHPFFHN96DA,新興段,62.00,都市：農
+RPOOMLLLNHPFFGN86DA,上興段,1000.00,非都市：一般農業區 ; 非都市編定：農牧用地
+TPPNMLLLNHPFFHN17DA,瓦窯南段,58.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLLLNHPFFHN07EA,河興段,122.84,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLLLNHPFFHN17EA,河興段,28.93,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPSNMLMLNHPFFCN86DA,鹿犁段,996.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLLKOHPFFFN96CA,三民段,144.50,都市：住
+RPRNMLRLNHPFFHN67CA,永明段,95.55,都市：住
+RPQNMLKKOHPFFHN86CA,梧鳳段,31.47,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLKKOHPFFHN86CA,梧鳳段,166.30,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPPNMLMJOHPFFFN66CA,竹圍段,234.30,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLMJOHPFFFN66CA,竹圍段,234.44,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLMJOHPFFFN66CA,竹圍段,234.32,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLRLNHPFFHN87CA,義民段,129.90,都市：住
+RPOOMLOJOHPFFFN86CA,光中段,123.67,都市：住
+RPOOMLOJOHPFFFN86CA,光中段,124.00,都市：住
+RPOOMLOJOHPFFFN86CA,光中段,124.32,都市：住
+RPVNMLMLNHPFFFN37CA,裕後段,4203.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPRNMLRLNHPFFFN47CA,螺青段,127.56,都市：住
+RPQNMLLLNHPFFGN86CA,上豐段,2500.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPTNMLKLNHPFFHN17CA,湖南段,95.00,都市：住
+RPTNMLKLNHPFFHN17CA,湖南段,31.00,都市：住
+RPRNMLLLNHPFFGN96CA,上豐段,2500.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFGN37CA,芳埤段,68.38,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFGN37CA,芳埤段,535.94,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFGN37CA,芳埤段,154.02,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFGN37CA,芳埤段,118.10,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFGN37CA,芳埤段,179.50,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFGN37CA,芳埤段,254.01,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFGN37CA,芳埤段,417.90,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFGN37CA,芳埤段,10.50,非都市：特定農業區 ; 非都市編定：農牧用地
+RPPNMLPLNHPFFFN07CA,大安段,142.00,都市：住
+RPPNMLPLNHPFFFN07CA,大安段,21.15,都市：其他
+RPSNMLLLNHPFFGN07CA,大永段,41.04,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,14.37,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,17.35,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,20.81,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,23.83,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,42.86,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,20.79,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,65.04,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,6.40,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,1.25,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,11.67,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,76.66,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,79.51,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,36.76,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,8.33,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,1.17,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,35.84,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,21.43,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,.59,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,3.51,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,23.54,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,13.30,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,.53,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,27.66,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,37.14,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLLLNHPFFGN07CA,大永段,64.66,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLLLNHPFFGN47CA,上富段,2165.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPXNMLKLNHPFFGN47CA,建山段,2373.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPQNMLOLNHPFFGN17CA,臺西段,2092.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPTNMLMLNHPFFGN27CA,柳子溝段,5346.36,非都市：一般農業區 ; 非都市編定：農牧用地
+RPTNMLMLNHPFFGN27CA,柳子溝段,87.71,非都市：一般農業區 ; 非都市編定：交通用地
+RPTNMLMLNHPFFFN17CA,竹圍段,64.06,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLMLNHPFFFN17CA,竹圍段,18.52,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPXNMLLLNHPFFGN57CA,楓港段,820.00,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLOJOHPFFGN96CA,竹崙段,41.75,都市：住
+RPSNMLMLNHPFFGN17CA,儒雅段,133.71,都市：住
+RPSNMLTLNHPFFEN67CA,新鼻子頭段,508.79,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLTLNHPFFEN67CA,新鼻子頭段,1499.25,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLTLNHPFFEN67CA,新鼻子頭段,1810.75,非都市：特定農業區 ; 非都市編定：農牧用地
+RPROMLQLNHPFFDN27CA,三義段,84.01,都市：住
+RPSOMLOJOHPFFDN07CA,新崙雅段,183.54,非都市：特定農業區 ; 非都市編定：水利用地
+RPRNMLTLNHPFFEN57CA,新鼻子頭段,1619.62,非都市：特定農業區 ; 非都市編定：丁種建築用地
+RPRNMLTLNHPFFEN57CA,新鼻子頭段,71.95,非都市：特定農業區 ; 非都市編定：丁種建築用地
+RPRNMLTLNHPFFEN57CA,新鼻子頭段,89.11,非都市：特定農業區 ; 非都市編定：丁種建築用地
+RPRNMLTLNHPFFEN57CA,新鼻子頭段,33.36,非都市：特定農業區 ; 非都市編定：丁種建築用地
+RPRNMLTLNHPFFEN57CA,新鼻子頭段,12.57,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPRNMLTLNHPFFEN57CA,新鼻子頭段,64.60,非都市：特定農業區 ; 非都市編定：丁種建築用地
+RPVNMLLLNHPFFDN07CA,新南東段,82.90,非都市：特定農業區 ; 非都市編定：農牧用地
+RPVNMLLLNHPFFDN07CA,新南東段,82.81,非都市：特定農業區 ; 非都市編定：農牧用地
+RPUNMLKLNHPFFEN96CA,仁美段,78.29,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLKLNHPFFEN96CA,仁美段,4.63,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLKLNHPFFEN96CA,仁美段,20.81,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLMKOHPFFDN86CA,橋愛段,20.34,都市：住
+RPSNMLMKOHPFFDN86CA,橋愛段,102.14,都市：住
+RPSNMLMKOHPFFDN86CA,橋愛段,8.44,都市：住
+RPPNMLKKOHPFFGN66CA,梅芳段,1.07,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLKKOHPFFGN66CA,梅芳段,20.34,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLKKOHPFFGN66CA,梅芳段,70.30,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLKMNHPFFCN76CA,福園段,36.34,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLKMNHPFFCN76CA,福園段,228.70,非都市：特定農業區 ; 非都市編定：農牧用地
+RPQNMLSLNHPFFDN27CA,大饒段,70.98,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLSLNHPFFDN27CA,大饒段,2.79,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLSLNHPFFDN27CA,大饒段,2.75,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLSLNHPFFDN27CA,大饒段,26.27,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLLLNHPFFDN86CA,大埔段,2460.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPUNMLQLNHPFFCN37CA,永安段,91.00,都市：住
+RPPNMLRLNHPFFCN96CA,鹿崙段,248.75,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSOMLMLNHPFFDN96CA,黎明段,8.65,都市：住
+RPQNMLMLNHPFFCN56CA,鹿鳴段,64.20,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPOOMLLLNHPFFDN09CA,圳寧段,81.34,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPOOMLLLNHPFFDN09CA,圳寧段,10.10,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLLLNHPFFCN09CA,福寶段,637.11,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLLLNHPFFCN09CA,福寶段,25.52,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLMLNHPFFAN09CA,大埔段,51.83,都市：其他
+RPVNMLNLNHPFFCN17CA,永豐段,109.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLNLNHPFFCN17CA,永豐段,108.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLNLNHPFFCN96CA,鹿草段,57.36,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLNLNHPFFCN96CA,鹿草段,28.56,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLRJOHPFFCN86CA,永福段,68.00,都市：住
+RPPNMLRJOHPFFCN86CA,永福段,20.98,都市：住
+RPPNMLTLNHPFFAN96CA,民權段,66.50,都市：商
+RPPNMLTLNHPFFAN96CA,民權段,12.00,都市：商
+RPPNMLLLNHPFFCN98CA,景福段,14.27,都市：其他
+RPQNMLTLNHPFFAN07CA,民權段,66.50,都市：商
+RPQNMLTLNHPFFAN07CA,民權段,12.00,都市：商
+RPPNMLPLNHPFFAN56CA,馬興段,300.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPSNMLQLNHPFFAN96CA,新金墩段,352.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPUNMLQLNHPFFAN17CA,福田段,141.24,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPPNMLMLNHPFFAN88CA,南郭段南郭小段,36.80,都市：住
+RPRNMLNJOHPFFAN09CA,南郭段南郭小段,11.00,都市：其他
+RPWNMLQLNHPFFAN37CA,民族段,15.00,都市：商
+RPSNMLLLNHPFFAN09CA,灣東段,9084.95,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPSNMLLLNHPFFAN09CA,灣東段,6374.76,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPSNMLLLNHPFFAN09CA,灣東段,2282.65,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPSNMLLLNHPFFAN09CA,灣東段,340.18,非都市：山坡地保育區 ; 非都市編定：丙種建築用地
+RPSNMLLLNHPFFAN09CA,灣東段,4632.12,非都市：山坡地保育區 ; 非都市編定：農牧用地
+RPSNMLLLNHPFFAN09CA,灣東段,306.28,非都市：山坡地保育區 ; 非都市編定：丙種建築用地
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.20,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.20,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.20,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.80,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.24,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.20,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,12.00,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.60,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.40,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,1.60,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,1.60,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,1.60,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,1.60,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.00,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.00,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.00,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.00,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.00,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,3.00,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,6.40,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.20,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.20,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.26,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,2.60,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.26,都市：商
+RPVNMLMKOHPFFAN86CA,彰化段西門小段,.26,都市：商
+RPVNMLMKOHPFFAN86CA,西門口段,87.20,都市：工
+RPVNMLMKOHPFFAN86CA,西門口段,2.00,都市：工
+RPVNMLMKOHPFFAN86CA,西門口段,2.00,都市：工
+RPVNMLMKOHPFFAN86CA,西門口段,12.90,都市：工
+RPOOMLPJOHPFFAN09CA,馬鳴段,132.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPROMLRKOHPFFAN07CA,大埔段,1.67,都市：住
+RPROMLRKOHPFFAN07CA,大埔段,10.08,都市：住
+RPROMLRKOHPFFAN07CA,大埔段,.51,都市：其他
