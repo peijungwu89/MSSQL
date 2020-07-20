@@ -10,10 +10,10 @@ df = df.fillna(value="")
 
 for index, row in df.iterrows():
 
-    row.¥æ©ö¦~¤ë¤é = str(int(row.¥æ©ö¦~¤ë¤é)+19110000)
+    row.äº¤æ˜“å¹´æœˆæ—¥ = str(int(row.äº¤æ˜“å¹´æœˆæ—¥)+19110000)
 
-    if bool(row.«Ø¿v§¹¦¨¦~¤ë):
-        row.«Ø¿v§¹¦¨¦~¤ë = str(int(row.«Ø¿v§¹¦¨¦~¤ë)+19110000)
+    if bool(row.å»ºç¯‰å®Œæˆå¹´æœˆ):
+        row.å»ºç¯‰å®Œæˆå¹´æœˆ = str(int(row.å»ºç¯‰å®Œæˆå¹´æœˆ)+19110000)
 ',
 @output_data_1_name = N'df'
 
