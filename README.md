@@ -1,3 +1,3 @@
 # MSSQL
 
-Some practices in class
+Some practices
